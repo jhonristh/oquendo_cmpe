@@ -1,2 +1,0 @@
-print("Hello, water sheep!")
-print("Drown the crocodiles...")
