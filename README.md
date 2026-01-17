@@ -1,8 +1,12 @@
 # oquendo_cmpe
 
-Collaboration on Github, Group Activity
-Alabano, Decena, and Oquendo Trio 
+Collaboration on Github, Group Activity:
+- ALBANO, EARL JEMUEL
+- DECENA, NICOLE CHEZKA
+- OQUENDO, JHON REY
 
-This is my repository for CMPE Class. 
+Each branches (their hometowns):
+Earl - "
+Chezka - "
+Jhon Rey - "Antipolo Branch"
 
-GINALAW ANG BASO
